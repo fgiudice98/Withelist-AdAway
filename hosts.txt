@@ -1,5 +1,8 @@
 device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
 fls-eu.amazon.it
+fls-eu.amazon.co.uk
+fls-na.amazon.it
 www.googleadservices.com
 clickserve.dartsearch.net
 graph.facebook.com
